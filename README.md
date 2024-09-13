@@ -202,7 +202,7 @@ square of butter. The steps to making a basic grilled cheese would be:
 After editing your `index.html` file, go back to the browser and refresh the
 page you opened earlier. Your newly added list should look like this:
 
-1. Spread butter on bread and frying pan
+1.Spread butter on bread and frying pan
 2. Place bread in frying pan and fry
 3. Add cheese on top of bread
 4. Cover with second slice of bread
